@@ -1,3 +1,3 @@
 [submodule "src"]
 	path = src
-	url = git@github.com:JordanBienvenue/storybook_source.git
+	url = https://github.com/JordanBienvenue/storybook_source.git
